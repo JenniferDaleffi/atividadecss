@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: rgb(84, 84, 243);
+    background-color: rgb(187, 0, 112);
     background-image: url("../imagens/img-01-banner.png");
     background-position: center;
     background-size: 30%;
@@ -40,4 +40,12 @@ form button {
 
 footer {
     border-top: 2px solid red;
+}
+
+.rodape {
+    background-color: rgb(187, 0, 112);
+    background-image: url("../imagens/img-01-banner.png");
+    background-position: center;
+    background-size: 30%;
+    background-repeat: no-repeat;
 }
